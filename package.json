@@ -1,0 +1,24 @@
+{
+  "name": "node-js-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_http_url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodPrimera/Node-Js-tutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GodPrimera/Node-Js-tutorials/issues"
+  },
+  "homepage": "https://github.com/GodPrimera/Node-Js-tutorials#readme",
+  "dependencies": {
+    "formidable": "^3.5.4"
+  }
+}
